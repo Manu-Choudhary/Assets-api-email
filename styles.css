@@ -1,0 +1,30 @@
+.container {
+  width: 30%;
+  margin: auto;
+  margin-top: 10%;
+  padding: 10px;
+  border: 2px solid;
+  box-shadow: 2px 2px 2px 2px rgb(41, 39, 39);
+}
+
+body {
+  background-color: rgb(160, 108, 108);
+}
+
+input {
+  width: 100%;
+  font-size: 20px;
+}
+
+::placeholder {
+  font-size: 15px;
+  color: rgb(100, 40, 50);
+  padding-left: 10px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  border: 0px;
+  font-size: 15px;
+}
